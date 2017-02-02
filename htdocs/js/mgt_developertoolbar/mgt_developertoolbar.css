@@ -23,6 +23,7 @@
   float:right;
   font-size:10px;
   color:#666666;
+  display:none;
 }
 
 #mgt-developer-toolbar-powered-by a {
@@ -201,4 +202,3 @@ span.mgt-developer-toolbar-log-info {
 #mgt-developer-toolbar-tab-blocks-content ul li.mgt-developer-toolbar-root-element, 
 #mgt-developer-toolbar-tab-events-content ul li.mgt-developer-toolbar-root-element  {
   background:#DDDDDD;
-}
